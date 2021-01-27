@@ -1,0 +1,1 @@
+A title attribute points a user to more information presented within an element of a HTML text. To experience and explore the element, the user hoovers the mouse over element and a tooltip with more information about the element is seen. 
